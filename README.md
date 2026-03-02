@@ -95,7 +95,7 @@ At this point, you should have a working Windows 11 VM in UTM.
 Now you have an Ubuntu VM running inside UTM.
 
 > 💡 Optional: Capture a screenshot of the Ubuntu VM or UTM settings for your README or notes.
-![Guide Image]
+
 
 ---
 
