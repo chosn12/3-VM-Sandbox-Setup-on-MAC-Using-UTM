@@ -10,5 +10,5 @@ Make sure UTM is accessible through your firewall. To do this:
 1. Click the **apple** in the upper left hand corner.
 2. Select **System Setting**, then select **Network** on the left pane.
 3. Next select **Firewall**
-<img width="727" height="951" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="" />
+<img width="727" height="951" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/main/docs/network-setting.png" />
 
