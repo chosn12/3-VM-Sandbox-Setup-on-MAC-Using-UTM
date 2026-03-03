@@ -1,4 +1,4 @@
-## Potential Networking Issues using UTM
+## Potential Networking Issues using UTM on Mac
 
 The networking issues I encountered using NAT (shared network) setting is in UTM. 
 - No connection between VMs
@@ -7,5 +7,7 @@ The networking issues I encountered using NAT (shared network) setting is in UTM
 
 **Solution:**
 Make sure UTM is accessible through your firewall. To do this:
-1. Select **System Setting**, then select **Network**
-2. Next select **Firewall**
+1. Click the **apple** in the upper left hand corner.
+2. Select **System Setting**, then select **Network** on the left pane.
+3. Next select **Firewall**
+ 
