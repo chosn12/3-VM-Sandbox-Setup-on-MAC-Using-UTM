@@ -14,5 +14,9 @@ Make sure UTM is accessible through your firewall. To do this:
 
 4. Then select **options**
 <img width="525" height="700" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/main/docs/UTM-firewall.png" />
-
+![image alt]()
 5. Click the **plus** and add **UTM**
+
+<img width="525" height="700" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/main/docs/UTM-firewall.png" />
+
+This should resolve all the above issue mentioned with the shared network setting in UTM for each VM.
