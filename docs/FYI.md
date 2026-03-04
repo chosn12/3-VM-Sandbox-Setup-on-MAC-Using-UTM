@@ -6,17 +6,21 @@ The networking issues I encountered using NAT (shared network) setting is in UTM
 - Unable to update drivers for VMs 
 
 **Solution:**
-Make sure UTM is accessible through your firewall. To do this:
+Make sure UTM is accessible through your firewall. 
+
+**To do this:**
 1. Click the **apple** in the upper left hand corner.
 2. Select **System Setting**, then select **Network** on the left pane.
 3. Next select **Firewall**
-<img width="525" height="700" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/main/docs/UTM-network.png" />
+<img width="525" height="700" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/main/docs/setting-network.png" />
 
 4. Then select **options**
-<img width="525" height="700" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/main/docs/UTM-firewall.png" />
-![image alt]()
+<img width="525" height="700" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/main/docs/setting-firewall.png" />
+
 5. Click the **plus** and add **UTM**
 
-<img width="525" height="700" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/main/docs/UTM-firewall.png" />
+<img width="525" height="700" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/main/docs/UTM-Allowed.png" />
 
 This should resolve all the above issue mentioned with the shared network setting in UTM for each VM.
+
+>
