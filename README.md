@@ -5,7 +5,7 @@ This README walks through setting up a 3‑VM sandbox on a Mac using UTM with:
 - One Ubuntu VM  
 - One Metasploitable 2 VM  
 
-Use this only in a contained lab environment and for legal, educational purposes.
+**Use this only in a contained lab environment and for legal, educational purposes.**
 
 ---
 
