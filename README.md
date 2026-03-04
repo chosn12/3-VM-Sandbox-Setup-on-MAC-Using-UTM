@@ -23,17 +23,14 @@ Use this only in a contained lab environment and for legal, educational purposes
 Before creating any VMs, download these:
 
 ### 1. Windows 11 (ARM) ISO
-
 - Download a Windows 11 ARM ISO from a legitimate source.  
 - Save the ISO somewhere like `~/Downloads/ISOs`.
 
 ### 2. Ubuntu (ARM) ISO
-
 - Download an Ubuntu ARM (ARM64 / aarch64) ISO (Server or Desktop).  
 - Save it in `~/Downloads/ISOs`.
 
 ### 3. Metasploitable 2 Disk
-
 - Download the Metasploitable 2 VMware image (ZIP with a `.vmdk` file).  
 - Extract the ZIP so you have a `.vmdk` file, for example:
   - `Metasploitable.vmdk`
