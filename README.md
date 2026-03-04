@@ -3,7 +3,8 @@
 This README walks through setting up a 3‑VM sandbox on a Mac using UTM with:
 - One Windows 11 VM  
 - One Ubuntu VM  
-- One Metasploitable 2 VM  
+- One Metasploitable 2 VM
+- All VMs are on the same network using the default network settings in UTM (shared network)
 
 **Use this only in a contained lab environment and for legal, educational purposes.**
 
