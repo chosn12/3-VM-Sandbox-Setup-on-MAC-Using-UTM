@@ -192,5 +192,12 @@ After folling this guide, you will have:
 - A Metasploitable 2 VM (x86, emulated)
 - All three connected via UTM's internal NAT network (Shared Network), forming a safe sandbox for security practice.
 
+---
 
+## ⚠️ Legal & Safety Notice
+Metasploitable and related testing tools should only be used:
+- In this isolated lab environment.
+- On systems you own of have explicit permission to test  
+  
+**Misuse of these tools may be illegal. Always follow local laws and your organization’s policies.**
 
