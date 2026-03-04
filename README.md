@@ -15,7 +15,7 @@ This README walks through setting up a 3‑VM sandbox on a Mac using UTM with:
 - macOS with enough resources  
   - Recommended: 16 GB RAM, 120–150 GB free disk  
 - UTM installed (from the Mac App Store or https://mac.getutm.app)  
-- Basic terminal familiarity for one command (`qemu-img`)
+- Basic terminal familiarity 
 
 ---
 
