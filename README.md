@@ -64,8 +64,6 @@ These steps assume an Apple Silicon Mac and a Windows 11 ARM ISO.
 
 At this point, you should have a working Windows 11 VM in UTM.
 
-> 💡 Optional: Take a screenshot of the VM settings/summary in UTM for documentation.
-
 <img width="800" height="500" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/0ef1515359e0ce3badba6ad26d065dc3f30bef84/docs/screenshots/Windows11-VM.png" />
 
 ---
@@ -93,8 +91,6 @@ At this point, you should have a working Windows 11 VM in UTM.
 12. Log in to Ubuntu after the reboot.
 
 Now you have an Ubuntu VM running inside UTM.
-
-> 💡 Optional: Capture a screenshot of the Ubuntu VM or UTM settings for your README or notes.
 
 <img width="800" height="500" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/bdfdf7d38389abb264241297a103499abfafef54/docs/screenshots/Ubuntu-VM.png" />
 
@@ -178,9 +174,10 @@ Once set, the three VMs should be able to communicate within your sandbox.
    ```bash
    ping <metasploitable-ip>
 
+You should see replies.
+
 <img width="800" height="500" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/590ff8da9fe20edd1c584ad363e9e0d0e312fda9/docs/screenshots/Ubuntu-Ping.png" />
 
-You should see replies.
 
 **From Windows 11 ➜ Metasploitable**
 1. In Windows 11, open **Command Prompt**.
