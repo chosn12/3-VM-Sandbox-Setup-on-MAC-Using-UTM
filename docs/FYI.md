@@ -52,5 +52,5 @@ Allow ICMP traffic through the Windows 11 VM firewall.
 
 This new rule should now appear in the **Inbound Rules** column.
 
-
+<img width="525" height="700" alt="Screen Shot 2026-03-03 at 16 37 56 PM" src="" />
 
