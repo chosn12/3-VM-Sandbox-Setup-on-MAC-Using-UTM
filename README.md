@@ -142,7 +142,7 @@ Metasploitable 2 is an x86 image, so you must **Emulate** (not Virtualize). This
 
 Now Metasploitable 2 is running under UTM.
 
-<img width="1679" height="1090" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/170a2000306030b13705e7157117fb51eb22dcb1/docs/screenshots/Windows11-VM.png" />
+<img width="1679" height="1090" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/0c97246a1c5aa7bcae264e657e5cbff449587909/docs/screenshots/Metasploitable2-VM.png" />
 
   >⚠️ Metasploitable is intentionally vulnerable. Keep it isolated and never expose it directly to untrusted networks.
 
