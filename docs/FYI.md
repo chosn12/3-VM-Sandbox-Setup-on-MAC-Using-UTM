@@ -24,3 +24,33 @@ Make sure UTM is accessible through your firewall.
 This should resolve all the above issues mentioned with the shared network setting in UTM for each VM.
 
 __
+
+## Potential Connection When Pinging Windows 11 VM
+
+This connection issue I encounted trying to ping Windows 11 VM
+- Unreachable
+
+## Solution:
+
+Allow ICMP traffic through the Windows 11 VM firewall.
+
+**To do this:**
+1. On the **taskbar**, click in the **search window** and type: **firewall.**
+2. Double click **Windows Defender Firewall.**
+3. Double click **Advance settings.**
+4. Click **Inbound Rules** in the left pane.
+5. Click **New Rule** in the right pane.
+6. Select **Custom**, then click **Next.**
+7. **All programs** should be selected, click **Next.**
+8. On Protocol drop down menu, select **ICMPv4.**
+9. Click **Next**.
+10. Click **Next**, again.
+11. **Allow the connection** should already be selected, click **Next.**
+12. All choices should be selected, click **Next.**
+13. Name the rule **ICMPv4 Allow**, or whatever you like.
+14. Click **Finish**
+
+This new rule should now appear in the **Inbound Rules** column.
+
+
+
