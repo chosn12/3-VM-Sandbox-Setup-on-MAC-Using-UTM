@@ -187,7 +187,7 @@ You should see replies.
    ```cmd
    ping <metasploitable-ip>
 
-<img width="800" height="500" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/170a2000306030b13705e7157117fb51eb22dcb1/docs/screenshots/Windows11-VM.png" />
+<img width="800" height="500" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/022e0ad935844699e6e6f004c90279aae9842467/docs/screenshots/Windows11-Ping.png" />
 
 
 3. Optionally install tools (e.g, Nmap, a browser) in Windows 11 and target the Metasploitable IP for learning/testing.
