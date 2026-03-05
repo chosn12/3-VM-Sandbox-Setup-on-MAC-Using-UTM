@@ -96,6 +96,7 @@ Now you have an Ubuntu VM running inside UTM.
 
 > 💡 Optional: Capture a screenshot of the Ubuntu VM or UTM settings for your README or notes.
 
+<img width="800" height="500" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/0ef1515359e0ce3badba6ad26d065dc3f30bef84/docs/screenshots/Windows11-VM.png" />
 
 ---
 
