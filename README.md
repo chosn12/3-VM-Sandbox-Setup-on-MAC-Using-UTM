@@ -66,6 +66,8 @@ At this point, you should have a working Windows 11 VM in UTM.
 
 > 💡 Optional: Take a screenshot of the VM settings/summary in UTM for documentation.
 
+<img width="1679" height="1090" alt="Windows11-VM" src="https://github.com/user-attachments/assets/efe1b5a5-633a-426e-bb1f-ad5f7e7fce8a" />
+
 ---
 
 ## 2️⃣ Create the Ubuntu VM
