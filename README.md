@@ -66,7 +66,7 @@ At this point, you should have a working Windows 11 VM in UTM.
 
 > 💡 Optional: Take a screenshot of the VM settings/summary in UTM for documentation.
 
-<img width="1679" height="1090" alt="Windows11-VM" src="https://github.com/user-attachments/assets/efe1b5a5-633a-426e-bb1f-ad5f7e7fce8a" />
+<img width="1679" height="1090" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/170a2000306030b13705e7157117fb51eb22dcb1/docs/screenshots/Windows11-VM.png" />
 
 ---
 
