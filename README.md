@@ -178,7 +178,7 @@ Once set, the three VMs should be able to communicate within your sandbox.
    ```bash
    ping <metasploitable-ip>
 
-<img width="800" height="500" alt="Windows11-VM" src="" />
+<img width="800" height="500" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/590ff8da9fe20edd1c584ad363e9e0d0e312fda9/docs/screenshots/Ubuntu-Ping.png" />
 
 You should see replies.
 
