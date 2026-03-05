@@ -178,6 +178,8 @@ Once set, the three VMs should be able to communicate within your sandbox.
    ```bash
    ping <metasploitable-ip>
 
+<img width="800" height="500" alt="Windows11-VM" src="" />
+
 You should see replies.
 
 **From Windows 11 ➜ Metasploitable**
