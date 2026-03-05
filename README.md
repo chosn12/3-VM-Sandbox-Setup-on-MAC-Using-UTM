@@ -66,7 +66,7 @@ At this point, you should have a working Windows 11 VM in UTM.
 
 > 💡 Optional: Take a screenshot of the VM settings/summary in UTM for documentation.
 
-<img width="800" height="500" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/0c97246a1c5aa7bcae264e657e5cbff449587909/docs/screenshots/Metasploitable2-VM.png" />
+<img width="800" height="500" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/0ef1515359e0ce3badba6ad26d065dc3f30bef84/docs/screenshots/Windows11-VM.png" />
 
 ---
 
