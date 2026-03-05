@@ -1,4 +1,4 @@
-# ❓ 3 VM Security Sandbox on macOS with UTM
+# ❓ 3 VM Secure Sandbox on macOS with UTM
 
 This README walks through setting up a 3‑VM sandbox on a Mac using UTM with:
 - One Windows 11 VM  
