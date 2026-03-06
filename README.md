@@ -137,7 +137,7 @@ Metasploitable 2 is an x86 image, so you must **Emulate** (not Virtualize). This
 8. Start the VM.
 9. When it boots tp a login prompt, log in with the default credentials (commonly `msfadmin/msfadmin`-verify with Metasploitable's documentation).
 
-Now Metasploitable 2 is running under UTM.
+Now Metasploitable 2 is running under UTM with an **ip address: 192.168.64.8**.
 
 <img width="800" height="500" alt="Windows11-VM" src="https://github.com/chosn12/3-VM-Sandbox-Setup-on-MAC-Using-UTM/blob/0c97246a1c5aa7bcae264e657e5cbff449587909/docs/screenshots/Metasploitable2-VM.png" />
 
