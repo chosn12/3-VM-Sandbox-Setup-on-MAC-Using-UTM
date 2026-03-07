@@ -198,7 +198,7 @@ After folling this guide, you will have:
 - A Windows 11 VM (ARM)
 - An Ubuntu VM (ARM)
 - A Metasploitable 2 VM (x86, emulated)
-- All three connected via UTM's internal NAT network (Shared Network), forming a safe sandbox for security practice.
+- All three connected via UTM's internal NAT network (Shared Network), forming a secure sandbox environment.
 
 ---
 
