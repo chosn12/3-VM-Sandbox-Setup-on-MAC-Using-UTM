@@ -1,4 +1,4 @@
-## Potential Networking Issues using UTM on Mac
+# 💥 Potential Networking Issues using UTM on Mac 💥
 
 The networking issues I encountered using NAT (shared network) setting is in UTM. 
 - No connection between VMs
